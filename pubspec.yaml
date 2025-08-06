@@ -1,4 +1,4 @@
-name: quill_native_bridge_workspace
+name: quill_native_bridge
 publish_to: 'none'
 
 environment:
